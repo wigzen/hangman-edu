@@ -9,7 +9,7 @@ const finalMessageRevealWord = document.getElementById('final-message-reveal-wor
 const figureParts = document.querySelectorAll('.figure-part');
 const questions = [' The current in the diode is','When a forward biased is applied to a diode, the electrons enter to which region of the diode?',
 'In an ideal diode there is no breakdown, no __________ current, and no forward __________ drop','When avalanche breakdown occurs covalent bonds are not affected(True or false)']
-const words = ['bipolar', 'pregion', 'reverse,voltage', 'false'];
+const words = ['bipolar', 'pregion', 'reversevoltage', 'false'];
 
 const Qno = Math.floor(Math.random() * words.length)
 
