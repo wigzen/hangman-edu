@@ -2,8 +2,9 @@
 
 Select a letter to figure out a hidden word in a set amount of chances
 ## TeamMates
--Prathmesh Mishra
--Sohan Changani
+- Vikas Lodh (Self)
+- Prathmesh Mishra
+- Sohan Changani
 ## Project Specifications
 
 - Display hangman pole and figure using SVG
